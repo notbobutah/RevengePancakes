@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1a20f7b0-0479-4717-80d8-c1e697615342" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pancake-project" beforeDir="false" afterPath="$PROJECT_DIR$/pancake-project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pancake.go" beforeDir="false" afterPath="$PROJECT_DIR$/pancake.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pancake_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pancake_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/title.go" beforeDir="false" afterPath="$PROJECT_DIR$/title.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,38 +101,38 @@
       <screen x="32" y="26" width="3776" height="2108" />
     </state>
     <state x="2173" y="1174" width="765" height="897" key="#go_build_pancake.go/32.26.3776.2108@32.26.3776.2108" timestamp="1581451036260" />
-    <state width="2075" height="534" key="GridCell.Tab.0.bottom" timestamp="1581476462002">
+    <state width="2075" height="534" key="GridCell.Tab.0.bottom" timestamp="1581479370273">
       <screen x="32" y="26" width="3776" height="2108" />
     </state>
-    <state width="2075" height="534" key="GridCell.Tab.0.bottom/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462002" />
-    <state width="2075" height="534" key="GridCell.Tab.0.center" timestamp="1581476462002">
+    <state width="2075" height="534" key="GridCell.Tab.0.bottom/32.26.3776.2108@32.26.3776.2108" timestamp="1581479370273" />
+    <state width="2075" height="534" key="GridCell.Tab.0.center" timestamp="1581479370271">
       <screen x="32" y="26" width="3776" height="2108" />
     </state>
-    <state width="2075" height="534" key="GridCell.Tab.0.center/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462002" />
-    <state width="2075" height="534" key="GridCell.Tab.0.left" timestamp="1581476462002">
+    <state width="2075" height="534" key="GridCell.Tab.0.center/32.26.3776.2108@32.26.3776.2108" timestamp="1581479370271" />
+    <state width="2075" height="534" key="GridCell.Tab.0.left" timestamp="1581479370270">
       <screen x="32" y="26" width="3776" height="2108" />
     </state>
-    <state width="2075" height="534" key="GridCell.Tab.0.left/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462002" />
-    <state width="2075" height="534" key="GridCell.Tab.0.right" timestamp="1581476462002">
+    <state width="2075" height="534" key="GridCell.Tab.0.left/32.26.3776.2108@32.26.3776.2108" timestamp="1581479370270" />
+    <state width="2075" height="534" key="GridCell.Tab.0.right" timestamp="1581479370272">
       <screen x="32" y="26" width="3776" height="2108" />
     </state>
-    <state width="2075" height="534" key="GridCell.Tab.0.right/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462002" />
-    <state width="2075" height="534" key="GridCell.Tab.1.bottom" timestamp="1581476462421">
+    <state width="2075" height="534" key="GridCell.Tab.0.right/32.26.3776.2108@32.26.3776.2108" timestamp="1581479370272" />
+    <state width="2075" height="534" key="GridCell.Tab.1.bottom" timestamp="1581479370278">
       <screen x="32" y="26" width="3776" height="2108" />
     </state>
-    <state width="2075" height="534" key="GridCell.Tab.1.bottom/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462421" />
-    <state width="2075" height="534" key="GridCell.Tab.1.center" timestamp="1581476462421">
+    <state width="2075" height="534" key="GridCell.Tab.1.bottom/32.26.3776.2108@32.26.3776.2108" timestamp="1581479370278" />
+    <state width="2075" height="534" key="GridCell.Tab.1.center" timestamp="1581479370276">
       <screen x="32" y="26" width="3776" height="2108" />
     </state>
-    <state width="2075" height="534" key="GridCell.Tab.1.center/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462421" />
-    <state width="2075" height="534" key="GridCell.Tab.1.left" timestamp="1581476462421">
+    <state width="2075" height="534" key="GridCell.Tab.1.center/32.26.3776.2108@32.26.3776.2108" timestamp="1581479370276" />
+    <state width="2075" height="534" key="GridCell.Tab.1.left" timestamp="1581479370274">
       <screen x="32" y="26" width="3776" height="2108" />
     </state>
-    <state width="2075" height="534" key="GridCell.Tab.1.left/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462421" />
-    <state width="2075" height="534" key="GridCell.Tab.1.right" timestamp="1581476462421">
+    <state width="2075" height="534" key="GridCell.Tab.1.left/32.26.3776.2108@32.26.3776.2108" timestamp="1581479370274" />
+    <state width="2075" height="534" key="GridCell.Tab.1.right" timestamp="1581479370277">
       <screen x="32" y="26" width="3776" height="2108" />
     </state>
-    <state width="2075" height="534" key="GridCell.Tab.1.right/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462421" />
+    <state width="2075" height="534" key="GridCell.Tab.1.right/32.26.3776.2108@32.26.3776.2108" timestamp="1581479370277" />
     <state x="1926" y="1169" width="1269" height="906" key="SettingsEditor" timestamp="1581452510046">
       <screen x="32" y="26" width="3776" height="2108" />
     </state>
@@ -144,12 +143,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/pancake.go</url>
-          <line>119</line>
+          <line>118</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/pancake.go</url>
-          <line>122</line>
+          <line>121</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>

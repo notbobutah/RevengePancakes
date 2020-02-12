@@ -15,7 +15,6 @@ func main() {
 
 	argsWithProg := os.Args
 	argsWithoutProg := os.Args[1:]
-
 	arg := os.Args[1]
 	fmt.Println(argsWithProg)
 	fmt.Println(argsWithoutProg)
@@ -90,14 +89,14 @@ func printStack(stack string){
 			stackSlice = append(stackSlice, pmin[i])
 		}
 	}
-    var flip int = 1;
+    var flip int = 0;
     var idx int = 0;
 	var matrix []string
     var row strings.Builder
 	var workstr string
 	var cellstr string
-    var newflip = "+"
-    var oldflip = "-"
+    var newflip = "-"
+    var oldflip = "+"
 
     print("[")
 	for i, cell := range stackSlice {
