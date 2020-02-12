@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a20f7b0-0479-4717-80d8-c1e697615342" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1XfqVbDYPpDF2jSvw8XTe47uqnQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Go Test.pancake_test.go">
+    <configuration name="go build pancake.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="pancake-project" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <parameters value="--++--" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/pancake.go" />
+      <package value="pancake-project" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pancake_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="pancake-project" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="pancake-project" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/pancake_test.go" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build pancake.go" />
+      <item itemvalue="Go Test.pancake_test.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.pancake_test.go" />
+        <item itemvalue="Go Build.go build pancake.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a20f7b0-0479-4717-80d8-c1e697615342" name="Default Changelist" comment="" />
+      <created>1581447520777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581447520777</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1415" y="660" width="1002" height="840" key="#GOPATH" timestamp="1581447546740">
+      <screen x="32" y="26" width="3776" height="2108" />
+    </state>
+    <state x="1415" y="660" width="1002" height="840" key="#GOPATH/32.26.3776.2108@32.26.3776.2108" timestamp="1581447546740" />
+    <state x="2013" y="1273" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581451106808">
+      <screen x="32" y="26" width="3776" height="2108" />
+    </state>
+    <state x="2013" y="1273" key="#com.intellij.execution.impl.EditConfigurationsDialog/32.26.3776.2108@32.26.3776.2108" timestamp="1581451106808" />
+    <state x="2173" y="1174" width="765" height="897" key="#go_build_pancake.go" timestamp="1581451036260">
+      <screen x="32" y="26" width="3776" height="2108" />
+    </state>
+    <state x="2173" y="1174" width="765" height="897" key="#go_build_pancake.go/32.26.3776.2108@32.26.3776.2108" timestamp="1581451036260" />
+    <state width="2075" height="534" key="GridCell.Tab.0.bottom" timestamp="1581476462002">
+      <screen x="32" y="26" width="3776" height="2108" />
+    </state>
+    <state width="2075" height="534" key="GridCell.Tab.0.bottom/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462002" />
+    <state width="2075" height="534" key="GridCell.Tab.0.center" timestamp="1581476462002">
+      <screen x="32" y="26" width="3776" height="2108" />
+    </state>
+    <state width="2075" height="534" key="GridCell.Tab.0.center/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462002" />
+    <state width="2075" height="534" key="GridCell.Tab.0.left" timestamp="1581476462002">
+      <screen x="32" y="26" width="3776" height="2108" />
+    </state>
+    <state width="2075" height="534" key="GridCell.Tab.0.left/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462002" />
+    <state width="2075" height="534" key="GridCell.Tab.0.right" timestamp="1581476462002">
+      <screen x="32" y="26" width="3776" height="2108" />
+    </state>
+    <state width="2075" height="534" key="GridCell.Tab.0.right/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462002" />
+    <state width="2075" height="534" key="GridCell.Tab.1.bottom" timestamp="1581476462421">
+      <screen x="32" y="26" width="3776" height="2108" />
+    </state>
+    <state width="2075" height="534" key="GridCell.Tab.1.bottom/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462421" />
+    <state width="2075" height="534" key="GridCell.Tab.1.center" timestamp="1581476462421">
+      <screen x="32" y="26" width="3776" height="2108" />
+    </state>
+    <state width="2075" height="534" key="GridCell.Tab.1.center/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462421" />
+    <state width="2075" height="534" key="GridCell.Tab.1.left" timestamp="1581476462421">
+      <screen x="32" y="26" width="3776" height="2108" />
+    </state>
+    <state width="2075" height="534" key="GridCell.Tab.1.left/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462421" />
+    <state width="2075" height="534" key="GridCell.Tab.1.right" timestamp="1581476462421">
+      <screen x="32" y="26" width="3776" height="2108" />
+    </state>
+    <state width="2075" height="534" key="GridCell.Tab.1.right/32.26.3776.2108@32.26.3776.2108" timestamp="1581476462421" />
+    <state x="1926" y="1169" width="1269" height="906" key="SettingsEditor" timestamp="1581452510046">
+      <screen x="32" y="26" width="3776" height="2108" />
+    </state>
+    <state x="1926" y="1169" width="1269" height="906" key="SettingsEditor/32.26.3776.2108@32.26.3776.2108" timestamp="1581452510046" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/pancake.go</url>
+          <line>119</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/pancake.go</url>
+          <line>122</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
