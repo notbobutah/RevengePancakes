@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1a20f7b0-0479-4717-80d8-c1e697615342" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pancake-project" beforeDir="false" afterPath="$PROJECT_DIR$/pancake-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pancake-project" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pancake.go" beforeDir="false" afterPath="$PROJECT_DIR$/pancake.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pancake_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pancake_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,12 +142,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/pancake.go</url>
-          <line>118</line>
+          <line>117</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/pancake.go</url>
-          <line>121</line>
+          <line>120</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>

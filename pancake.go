@@ -12,13 +12,12 @@ const happyside uint8 = '+'
 
 func main() {
 	title()
+// modification courtesy of Scott !
+	args := os.Args[1:]
+	for i, a := range args {
+		fmt.Printf("Case %d: %d\n", i+1, flip(a))
+	}
 
-	argsWithProg := os.Args
-	argsWithoutProg := os.Args[1:]
-	arg := os.Args[1]
-	fmt.Println(argsWithProg)
-	fmt.Println(argsWithoutProg)
-	fmt.Println(arg)
 }
 
 // flip stack based on calculated best move
