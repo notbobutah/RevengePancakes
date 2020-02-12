@@ -32,7 +32,7 @@ func TestFlip(t *testing.T) {
 		if actual != tt.expected {
 			t.Errorf("flip(%s): expected %d, actual %d", tt.stack, tt.expected, actual)
 		} else {
-			println("Stack test passed for :"+tt.stack);
+			println("Test passed for :"+tt.stack);
 		}
 	}
 }

@@ -16,5 +16,8 @@ func title() string {
 	println("██║░░░░░██║░░██║██║░╚███║╚█████╔╝██║░░██║██║░╚██╗███████╗██████╔╝");
 	println("╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚══╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═════╝░");
 
-return "Revenge of the Pancakes"
+	println("");
+	println("");
+
+	return "Revenge of the Pancakes"
 }

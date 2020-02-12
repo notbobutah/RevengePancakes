@@ -27,7 +27,7 @@ func main() {
 // last character in string array represents bottom of stack
 func flip(stack string) int {
 
-     var flipstck int = cntFlips(stack);
+    var flipstck int = cntFlips(stack);
 	printStack(stack);
 	return flipstck
 }
